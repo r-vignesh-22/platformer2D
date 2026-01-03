@@ -3,7 +3,7 @@
 This is my **first game project**, created as a learning experience and uploaded to GitHub.  
 The game features a simple box-style character, a pause/menu system, and multiple options like Start, Level selection, and Exit.
 
-##  Features
+##  Features  
 
 - Minimalist UI with a dark purple theme
 - Pause menu with:
